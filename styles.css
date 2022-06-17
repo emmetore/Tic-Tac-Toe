@@ -1,0 +1,39 @@
+
+:root {
+    --orange: orange;
+    --winningColor: rgb(139, 239, 139);
+}
+
+body {
+    background-color: black ;
+    color:aliceblue;
+    
+}
+
+.board {
+    border-width: 5px;
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 0px;
+    
+}
+
+th {
+    border-width: 5px;
+    border: solid;
+    border-color: aliceblue;
+    border-radius: 0px;
+    padding: 10px;
+}
+
+
+.cell {
+    padding: 15px;
+}
+
+
+.container {
+    padding: 5rem;
+    align-items: center;
+}
+
